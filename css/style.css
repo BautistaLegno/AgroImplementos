@@ -513,6 +513,9 @@ footer {
   .footer-distributed .footer-center i {
       margin-left: 0;
   }
+    .footer-distributed h3{
+    font-size: 30px;
+  }
 }     
   
 
