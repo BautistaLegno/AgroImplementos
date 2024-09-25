@@ -76,5 +76,6 @@
     }
     .producto {
         width: 100%; /* Asegura que los productos ocupen todo el ancho */
+        margin: 70px auto;
     }
 }
